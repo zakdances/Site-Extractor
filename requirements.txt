@@ -1,0 +1,10 @@
+tabula
+# camelot-py[base]
+# camelot-py[cv]
+opencv-python
+# excalibur-py
+# PyPDF2
+# 'PyPDF2<3.0'
+conda-forge
+camelot-py
+pandas
